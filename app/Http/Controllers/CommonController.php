@@ -21,7 +21,6 @@ class CommonController extends Controller
 
      }
 
-
      /**
      * Do logic to show second table
      */
